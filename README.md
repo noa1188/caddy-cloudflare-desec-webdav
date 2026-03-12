@@ -39,6 +39,7 @@ services:
 volumes:
   caddy_data:
   caddy_config:
+  caddy_log:
  
 networks:
   caddy-cf:
