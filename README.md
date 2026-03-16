@@ -1,4 +1,4 @@
-# caddy-cloudflare-desec
+# caddy-cloudflare-desec-webdav
 
 ```
 https://caddyserver.com/download
